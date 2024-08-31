@@ -1,0 +1,46 @@
+{
+  "name": "MegaMatchSwap List",
+  "timestamp": "2024-04-05T17:12:38.671Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://www.trisolaris.io/static/media/planets.41c4868f.svg",
+  "keywords": ["matchain", "mega", "exchange", "defi"],
+  "tokens": [
+    {
+      "name": "FUSD Stablecoin",
+      "address": "0x4D9160D7Ae7B035D0a5BbaE80Cc0EAEce1CD3581",
+      "symbol": "FUSD",
+      "decimals": 18,
+      "chainId": 5611,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe3520349F477A5F6EB06107066048508498A291b/logo.svg"
+    },
+    {
+      "name": "EMPY Stablecoin",
+      "address": "0x1eA60311A9224e476384AEf90757404AbED1bB1c",
+      "symbol": "UVRT",
+      "decimals": 18,
+      "chainId": 5611,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe3520349F477A5F6EB06107066048508498A291b/logo.svg"
+    },
+    {
+      "name": "WBNB Stablecoin",
+      "address": "0x9BE5AF6cceb903b7E3eC61FA5D6776E248a094cB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 5611,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe3520349F477A5F6EB06107066048508498A291b/logo.svg"
+    },
+    {
+      "name": "ZUSD Stablecoin",
+      "address": "0x328C5408414A5A1224CCb616FDa9Cbc3533188C0",
+      "symbol": "ZUSD",
+      "decimals": 18,
+      "chainId": 5611,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe3520349F477A5F6EB06107066048508498A291b/logo.svg"
+    }
+  ]
+}
